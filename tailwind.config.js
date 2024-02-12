@@ -3,6 +3,12 @@ export default {
   content: [],
   theme: {
     extend: {},
+    colors: {
+      'blue': '#0025DE',
+    },
+    fontFamily: {
+      sans: ['Helvetica Neue', 'sans-serif'],
+    },
   },
   plugins: [],
 }
