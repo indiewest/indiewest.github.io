@@ -14,6 +14,7 @@
     html, body {
         -ms-overflow-style: none; /* IE and Edge */
         scrollbar-width: none; /* Firefox */
+        /* background-color: #0E0E0E; */
     }
     html::-webkit-scrollbar, body::-webkit-scrollbar {
         display: none; /* Chrome, Safari, Opera*/
