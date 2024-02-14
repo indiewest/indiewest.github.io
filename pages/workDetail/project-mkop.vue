@@ -24,20 +24,20 @@
             </div> -->
         </div>
         <div class="mt-[60px] lg:mt-[110px]">
-            <img src="~/assets/work/mkop/MKOP_WEB-01.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-02.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-03.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-04.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-05.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-08.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-09.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-10.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-11.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-12.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-13.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-15.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-17.jpg" class="w-full">
-            <img src="~/assets/work/mkop/MKOP_WEB-18.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-01.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-02.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-03.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-04.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-05.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-08.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-09.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-10.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-11.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-12.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-13.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-15.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-17.jpg" class="w-full">
+            <img src="/images/work/mkop/MKOP_WEB-18.jpg" class="w-full">
         </div>
     </div>
 </template>

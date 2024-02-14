@@ -15,7 +15,7 @@
             <li class="work-item">
                 <NuxtLink to="/workDetail/project-mkop">
                     <div class="w-full overflow-hidden">
-                        <img src="~/assets/work/mkop/MKOP_WEB-01.jpg" class="w-full transition">
+                        <img src="/images/work/mkop/MKOP_WEB-01.jpg" class="w-full transition">
                     </div>
                     <h3 class="text-blue pt lg:text-[36px] text-[24px] mt-[24px] leading-tight">MAKE.O.PEACE BRAND DESIGN</h3>
                     <h5 class="text-blue text-sm lg:text-lg">2022 · BRANDING · PACKAGE</h5>
@@ -24,7 +24,7 @@
             <li class="work-item">
                 <NuxtLink to="/workDetail/project-uf">
                     <div class="w-full overflow-hidden">
-                        <img src="~/assets/work/uf/UF_WEB-01.jpg" class="w-full transition">
+                        <img src="/images/work/uf/UF_WEB-01.jpg" class="w-full transition">
                     </div>
                     <h3 class="text-blue pt lg:text-[36px] text-[24px] mt-[24px] leading-tight">UNE FEMME BRAND DESIGN</h3>
                     <h5 class="text-blue text-sm lg:text-lg">2020 · BRANDING · PACKAGE</h5>
