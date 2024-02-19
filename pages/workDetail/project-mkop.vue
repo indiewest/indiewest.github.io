@@ -25,12 +25,15 @@
         </div>
         <div class="mt-[60px] lg:mt-[110px]">
             <img src="/img/work/mkop/MKOP_WEB-01.jpg" class="w-full">
-            <img src="/img/work/mkop/MKOP_WEB-02.jpg" class="w-full">
-            <img src="/img/work/mkop/MKOP_WEB-02-2.gif" class="w-full">
-            <img src="/img/work/mkop/MKOP_WEB-03.jpg" class="w-full">
+            <div style="position: relative;">
+                <img style="position: absolute; left: 50%; transform: translate(-50%, 8%)" src="/img/work/mkop/MKOP_WEB-02-2.gif" class="">
+                <img src="/img/work/mkop/MKOP_WEB-02.png" class="w-full">
+            </div>
+            <img src="/img/work/mkop/MKOP_WEB-03.jpg" class="w-full"> 
             <img src="/img/work/mkop/MKOP_WEB-04.jpg" class="w-full">
-            <img src="/img/work/mkop/MKOP_WEB-05.jpg" class="w-full">
-            <video src="/img/work/mkop/MKOP_VID.mp4" class="w-full" autoplay muted></video>
+            <video src="/img/work/mkop/MKOP_VID.mp4" class="w-full" autoplay muted loop></video>
+            <img src="/img/work/mkop/MKOP_WEB-06.jpg" class="w-full">
+            <img src="/img/work/mkop/MKOP_WEB-07.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-08.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-09.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-10.jpg" class="w-full">
