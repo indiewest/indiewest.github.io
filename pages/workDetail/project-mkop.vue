@@ -26,18 +26,25 @@
         <div class="mt-[60px] lg:mt-[110px]">
             <img src="/img/work/mkop/MKOP_WEB-01.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-02.jpg" class="w-full">
+            <img src="/img/work/mkop/MKOP_WEB-02-2.gif" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-03.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-04.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-05.jpg" class="w-full">
+            <video src="/img/work/mkop/MKOP_VID.mp4" class="w-full" autoplay muted></video>
             <img src="/img/work/mkop/MKOP_WEB-08.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-09.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-10.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-11.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-12.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-13.jpg" class="w-full">
+            <img src="/img/work/mkop/MKOP_WEB-14.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-15.jpg" class="w-full">
+            <img src="/img/work/mkop/MKOP_WEB-16.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-17.jpg" class="w-full">
             <img src="/img/work/mkop/MKOP_WEB-18.jpg" class="w-full">
+            <img src="/img/work/mkop/MKOP_WEB-19.jpg" class="w-full">
+            <img src="/img/work/mkop/MKOP_WEB-20.jpg" class="w-full">
+            <img src="/img/work/mkop/MKOP_WEB-21.jpg" class="w-full">
         </div>
     </div>
 </template>
